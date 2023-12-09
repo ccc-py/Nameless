@@ -1,5 +1,7 @@
 # ccc 修改
 
+來源 -- https://github.com/ElliotPenson/Nameless
+
 將 python 2 語法改為 python 3
 
 可執行
